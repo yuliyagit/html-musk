@@ -1,0 +1,25 @@
+ h2 {
+    font-family: Titillium Web, Monospace;
+    font-size: 60px;
+    color: black;
+  }
+  .smaller-image {
+    width: 800px;
+    border-width: 100px;
+  }
+  .background-text {
+    background: #DCDCDC;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.background-image {
+    background: #DCDCDC;
+}
+.margin {
+  margin: 60px;
+}
+.number {
+  font-weight: 900;
+}
